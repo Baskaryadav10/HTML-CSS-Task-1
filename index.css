@@ -1,0 +1,75 @@
+.survey-form {
+    background-color:rgba(18, 14, 229, 0.8);
+    color:white;
+}
+
+.title{
+    display: block;
+    text-align: center;
+    background-color: #42d942;
+    color: black;
+}
+
+
+#survey-form {
+    width:80%;
+    margin:20px auto;
+    padding:25px;
+    background-color:rgba(0,0,0,0.6);
+    border-radius: 5px;
+}
+.div {
+    display: block;
+    text-align: center;
+    border:none;
+    width:100%;
+    padding:15px 0;
+  }
+  
+  label,.div:first-child input,select,#submit {
+    display:block;
+    width:100%;
+    border-radius: 5px;
+  }
+
+  
+.textarea {
+    margin-top:5px;
+    display:block;
+    width:100%;
+  }
+
+  textarea {
+    margin-top:5px;
+    display:block;
+    width:100%;
+  }
+  
+  
+  .div:first-child input,select {
+    margin:5px 0;
+    padding:7px;
+  }
+  
+  .div:first-child label {
+    margin:12px 0;
+  }
+  
+  
+  .div:nth-child(2) label {
+    margin:10px 0;
+  }
+  
+  .div:nth-child(2) input {
+    margin:0;
+  }
+  
+  #submit {
+    width:100%;
+    background-color:rgb(228, 10, 10);
+    margin:20px 0;
+    border:none;
+    height:30px;
+    color:white;
+  }
+  
